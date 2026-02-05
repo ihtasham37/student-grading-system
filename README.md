@@ -1,4 +1,4 @@
-````markdown
+
 # Student Grading System 
 
 This is a **C++ Student Grading System** project designed for semester coursework. It allows users to manage student records, calculate GPA and grades, sort students, and export reports to files.
